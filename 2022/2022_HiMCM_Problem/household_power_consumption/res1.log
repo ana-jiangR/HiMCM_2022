@@ -1,0 +1,33 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  17 NOV 2022 09:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/bzhu5/BingZhu/OneDrive/Ana-Bing/HiMCM/2022/2022_HiMCM_Problem/household_power_consumption/res1.tex
+(c:/Users/bzhu5/BingZhu/OneDrive/Ana-Bing/HiMCM/2022/2022_HiMCM_Problem/household_power_consumption/res1.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02>
+
+! LaTeX Error: File `res.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+c:/Users/bzhu5/BingZhu/OneDrive/Ana-Bing/HiMCM/2022/2022_HiMCM_Problem/household_power_consumption/res1.tex:7: Emergency stop.
+<read *> 
+         
+l.7 \setlength
+              {\textheight}{9.5in} % increase text height to fit on 1-page^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 474971
+ 733 string characters out of 5780114
+ 342064 words of memory out of 5000000
+ 21624 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,0n,29p,212b,17s stack positions out of 10000i,1000n,20000p,200000b,200000s
+c:/Users/bzhu5/BingZhu/OneDrive/Ana-Bing/HiMCM/2022/2022_HiMCM_Problem/household_power_consumption/res1.tex:7:  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,6 @@
+PWD c:/Users/bzhu5/BingZhu/OneDrive/Ana-Bing/HiMCM/2022/2022_HiMCM_Problem/household_power_consumption
+INPUT c:/texlive/2022/texmf.cnf
+INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/bzhu5/BingZhu/OneDrive/Ana-Bing/HiMCM/2022/2022_HiMCM_Problem/household_power_consumption/res1.tex
+OUTPUT res1.log
